@@ -1,0 +1,14 @@
+body{
+    background-color : lightcyan;
+}
+
+hr{
+    border-style: solid;
+    border-color : grey;
+    width : 100% ;
+}
+
+/* ID Selector */
+#ProfilePic{
+    background:blue;
+}
